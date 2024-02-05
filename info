@@ -1,0 +1,32 @@
+3H50
+4H50
+6H20
+6H50
+7H00
+7H05
+7H35
+8H14  https://materializecss.com/preloader.html ancre "Circular Flashing Colors" le premier
+8H47
+
+//in-memory-web-api
+npm install-in-memory-web-api --save-dev
+---------------------------------------------------
+pour le deploiement il faut :
+- Preparer le deploiement ("ng build")
+- creer l'application sur le serveur
+- deploiement proprement dit
+-----------------------------
+//cli de firebase (installation et misa à jour)
+npm install -g firebase-tools
+-----------------------------
+// initialisation
+firebase init
+-----------------------------
+// Deploiement
+firebase deploy
+-----------------------------
+Project Console: https://console.firebase.google.com/project/ng-pokemon-app-d5057/overview
+Hosting URL: https://ng-pokemon-app-d5057.web.app
+
+
+Amoro
